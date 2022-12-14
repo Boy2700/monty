@@ -61,8 +61,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 * Yusuf Babatunde  (https://github.com/boy2700)
 
-* Damola Ekundayo 
-* (https://github.com/Ekundayo)
+* Damola Ekundayo  (https://github.com/Ekundayo)
 
 14/12/2022
 >>>>>>> 15df9066e1bf437d5f093eac0c6cb3cea74985c6
