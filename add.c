@@ -6,6 +6,10 @@
  * @line_number: counter for line number of the file.
  *
  * Return: void.
+ * f_add - adds the top two elements of the stack.
+ * @head: stack head
+ * @counter: line_number
+ * Return: no return
  */
 void _add(stack_t **stack, unsigned int line_number)
 {
