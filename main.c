@@ -8,6 +8,9 @@ char stack_queue = 's';
  * @argv: array of strings with the parameters passed to main program
  *
  * Return: EXIT_SUCCESS on success, EXIT_FAILURE on any failure.
+ * main - monty code interpreter
+ * @argc: number of arguments
+ * @argv: monty file location
  */
 int main(int argc, char *argv[])
 {
