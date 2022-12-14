@@ -6,6 +6,9 @@
  * @line_number: counter for line number of the file.
  *
  * Return: void.
+ * f_swap - adds the top two elements of the stack.
+ * @head: stack head
+ * @counter: line_number
  */
 void _swap(stack_t **stack, unsigned int line_number)
 {
